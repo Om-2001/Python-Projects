@@ -71,10 +71,3 @@ qr_label.grid(row=5, column=0, columnspan=2, padx=10, pady=10)
 
 # Start the Tkinter event loop
 window.mainloop()
-
-
-
-
-
-
-
