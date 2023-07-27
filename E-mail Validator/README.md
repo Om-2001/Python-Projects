@@ -6,7 +6,7 @@ This repository contains a simple Python script that implements a basic email va
 
 1. Clone the repository to your local machine.
 2. Ensure you have Python and Tkinter installed.
-3. Run the script `email_validator.py`.
+3. Run the script `main.py`.
 4. Enter an email address in the provided input field.
 5. Click the "Validate" button to check if the email address is valid.
 6. The result will be displayed below the input field.
