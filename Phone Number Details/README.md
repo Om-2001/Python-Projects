@@ -43,8 +43,3 @@ This phone number details application has the following limitations:
 
 4. Single Number Input: The application allows users to enter and check details for only one phone number at a time. It does not support batch processing or handling multiple numbers simultaneously.
 
-## Contributions
-
-Contributions to this project are welcome! If you find any issues or want to enhance the functionality, feel free to open an issue or submit a pull request.
-
-
